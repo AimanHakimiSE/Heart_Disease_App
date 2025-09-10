@@ -51,6 +51,10 @@ Team Members:
 5. Muhammad Alham Bin Jamain 202309010265 BCSSE
 
 Lecturer: SIR NAZMIRUL IZZAD BIN NASSIR
+
 Subject Code: BIT4333
+
 Subject Name: INTRODUCTION TO MACHINE LEARNING
+
 Submission: 11th SEPTEMBER 2025
+
