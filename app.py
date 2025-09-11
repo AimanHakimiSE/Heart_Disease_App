@@ -37,8 +37,8 @@ input_data = pd.DataFrame([[age, sex, cp, trestbps, chol, fbs, restecg, thalach,
 
 # Predict
 if st.button("Predict"):
-    prediction = model.predict(input_data)["Yes"]
-    probability = model.predict_proba(input_data)["Yes"]["No"]
+    prediction = model.predict(input_data)[1]
+    probability = model.predict_proba(input_data)[0][1]
 
     if prediction == 1:
         st.error(f"🚨 The model predicts a HIGH likelihood of heart disease. (Risk: {probability:.2f})")
