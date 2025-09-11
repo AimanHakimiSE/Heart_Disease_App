@@ -37,7 +37,7 @@ input_data = pd.DataFrame([[age, sex, cp, trestbps, chol, fbs, restecg, thalach,
 
 # Predict
 if st.button("Predict"):
-    prediction = model.predict(input_data)[1]
+    prediction = model.predict(input_data)[0]
     probability = model.predict_proba(input_data)[0][1]
 
     if prediction == 1:
