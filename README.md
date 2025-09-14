@@ -1,4 +1,4 @@
-﻿# Disease Prediction: A Machine Learning Approach 
+﻿# Heart Disease Prediction: A Machine Learning Approach 
 # About the Project
 This project extends my degree coursework by developing and evaluating machine learning models to predict heart disease using the Cleveland Heart Disease dataset from the UCI repository. It emphasizes the technical aspects of model selection, training, and performance evaluation, highlighting the effectiveness of algorithms such as Logistic Regression, Support Vector Machine, Random Forest, and XGBoost in clinical prediction tasks.
 
@@ -95,3 +95,4 @@ Mattingly, Q. (2025). Cardiovascular Diseases. Retrieved from World Health Organ
 Prof Peder L. Myhre, MD, PhD, & J. T. (2024, October). Digital tools in heart failure: addressing unmet needs. Retrieved from Science Direct: https://www.sciencedirect.com/science/article/pii/S2589750024001584
 Siming Wan, F. W.-j. (2025, May 29). Machine learning approaches for cardiovascular disease prediction: A review. Retrieved from Science Direct: https://www.sciencedirect.com/science/article/abs/pii/S1875213625003201
 World Health Organization. (2025, July 31). Cardiovascular diseases (CVDs). Retrieved from World Health Organization: https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
+
