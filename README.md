@@ -14,7 +14,7 @@ Cardiovascular disease is a leading cause of death globally, yet traditional dia
 Despite medical advances, the timely and accurate diagnosis of cardiovascular disease remains a challenge. Traditional methods rely on costly, invasive tests and fragmented health records that hinder holistic analysis. Conventional approaches also depend on rigid thresholds, overlooking subtle risk patterns and patient variability. These gaps highlight the need for advanced, data-driven solutions capable of handling multidimensional clinical data and supporting more reliable cardiovascular risk prediction.
 </div>
 
-# Objective
+# Objectives
 This project aims to develop and evaluate predictive models using machine learning techniques on the Cleveland Heart Disease dataset to improve the early detection of cardiovascular risk. The objective encompasses:
 * Preparing and preprocessing clinical data for quality and consistency.
 * Implementing models such as Logistic Regression, Random Forest, SVM, and XGBoost.
@@ -92,6 +92,7 @@ We would like to express our gratitude to our lecturer, Sir Nazmirul Izzad Bin N
 * Prof Peder L. Myhre, MD, PhD, & J. T. (2024, October). Digital tools in heart failure: addressing unmet needs. Retrieved from Science Direct: https://www.sciencedirect.com/science/article/pii/S2589750024001584
 * Siming Wan, F. W.-j. (2025, May 29). Machine learning approaches for cardiovascular disease prediction: A review. Retrieved from Science Direct: https://www.sciencedirect.com/science/article/abs/pii/S1875213625003201
 * World Health Organization. (2025, July 31). Cardiovascular diseases (CVDs). Retrieved from World Health Organization: https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
+
 
 
 
