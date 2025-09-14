@@ -96,3 +96,4 @@ Prof Peder L. Myhre, MD, PhD, & J. T. (2024, October). Digital tools in heart fa
 Siming Wan, F. W.-j. (2025, May 29). Machine learning approaches for cardiovascular disease prediction: A review. Retrieved from Science Direct: https://www.sciencedirect.com/science/article/abs/pii/S1875213625003201
 World Health Organization. (2025, July 31). Cardiovascular diseases (CVDs). Retrieved from World Health Organization: https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
 
+
