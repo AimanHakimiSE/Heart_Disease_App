@@ -60,22 +60,22 @@ https://heartdiseaseapp-tqqzet2dp7aarmhpzr6wny.streamlit.app/
 (Video of the App Tutorial in Notebook)
 
 # Model Evaluation
-# Logistic Regression Results:
+Logistic Regression Results:
 Accuracy: 0.9166666666666666
 F1 Score: 0.9019607843137255
 ROC-AUC: 0.953125
 
-# Random Forest Results:
+Random Forest Results:
 Accuracy: 0.8833333333333333
 F1 Score: 0.8627450980392157
 ROC-AUC: 0.9447544642857144
 
-# SVM Results:
+SVM Results:
 Accuracy: 0.9
 F1 Score: 0.88
 ROC-AUC: 0.9397321428571428
 
-# XGBoost Results:
+XGBoost Results:
 Accuracy: 0.85
 F1 Score: 0.8301886792452831
 ROC-AUC: 0.9441964285714286
@@ -103,6 +103,7 @@ Course Information
 * Prof Peder L. Myhre, MD, PhD, & J. T. (2024, October). Digital tools in heart failure: addressing unmet needs. Retrieved from Science Direct: https://www.sciencedirect.com/science/article/pii/S2589750024001584
 * Siming Wan, F. W.-j. (2025, May 29). Machine learning approaches for cardiovascular disease prediction: A review. Retrieved from Science Direct: https://www.sciencedirect.com/science/article/abs/pii/S1875213625003201
 * World Health Organization. (2025, July 31). Cardiovascular diseases (CVDs). Retrieved from World Health Organization: https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
+
 
 
 
