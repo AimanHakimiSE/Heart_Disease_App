@@ -25,7 +25,7 @@ By leveraging clinical data, this project seeks to demonstrate the potential of 
 
 
 # Built With
-Google Collab
+*Google Colab*
 
 # Dataset Source
 <div align="justify">
@@ -40,9 +40,9 @@ This project uses the Cleveland Heart Disease dataset from UCI, publicly availab
 * Deployment: The best-performing model was deployed through a Streamlit web application, allowing users to input patient details and receive real-time predictions with probability scores to support clinical decision-making.
 
 # Result and Impact
-<div align="justify>
+<div align="justify">
 The evaluation showed clear differences in performance among models. Logistic Regression worked as a baseline but struggled with non-linear data, while SVM improved with scaling yet underperformed compared to ensembles. Random Forest and XGBoost achieved the best results, with XGBoost leading across accuracy, F1 score, and ROC-AUC. Both minimized false negatives, highlighting clinical reliability. Feature importance confirmed known risk factors such as chest pain type, thalassemia, and age. These findings emphasize machine learning’s role in supporting proactive care, reducing hospital admissions, improving patient outcomes, and shifting healthcare toward prevention rather than treatment.
-  </div>
+</div>
 
 # Challenges and Solution
 * Class Imbalance in Dataset: Addressed using stratified train–test split and evaluation metrics like F1 score and ROC AUC instead of accuracy, ensuring balanced detection of both classes.
@@ -51,7 +51,7 @@ The evaluation showed clear differences in performance among models. Logistic Re
 * Model Interpretability: Enhanced by feature importance analysis, highlighting medically relevant predictors and bridging the gap between accuracy and clinical trust.
 
 # Model Development
-https://colab.research.google.com/drive/1Wre-yxgQkYg8Pyu8w6tyHhDkzPmY5coK?usp=sharing (Google Colab Code)
+https://colab.research.google.com/drive/1Wre-yxgQkYg8Pyu8w6tyHhDkzPmY5coK?usp=sharing - Google Colab Code
 
 # How to Use
 How to Use
@@ -60,30 +60,30 @@ https://heartdiseaseapp-tqqzet2dp7aarmhpzr6wny.streamlit.app/
 (Video of the App Tutorial in Notebook)
 
 # Model Evaluation
-Logistic Regression Results:
+# Logistic Regression Results:
 Accuracy: 0.9166666666666666
 F1 Score: 0.9019607843137255
 ROC-AUC: 0.953125
 
-Random Forest Results:
+# Random Forest Results:
 Accuracy: 0.8833333333333333
 F1 Score: 0.8627450980392157
 ROC-AUC: 0.9447544642857144
 
-SVM Results:
+# SVM Results:
 Accuracy: 0.9
 F1 Score: 0.88
 ROC-AUC: 0.9397321428571428
 
-XGBoost Results:
+# XGBoost Results:
 Accuracy: 0.85
 F1 Score: 0.8301886792452831
 ROC-AUC: 0.9441964285714286
 
 # Acknowledgement
-<div align="justify"
+<div align="justify">
 We would like to express our gratitude to our lecturer, Sir Nazmirul Izzad Bin Nassir, for his invaluable guidance and support throughout this project. We also extend our appreciation to our team members for their collaboration and dedication in completing this work. The dataset used in this study was obtained from Kaggle, which served as the foundation for our analysis and experimentation.
-  </div>
+</div>
 
 Team Members
 * Kristy Jade Luther (202307010100, BCSSE)
@@ -103,6 +103,7 @@ Course Information
 * Prof Peder L. Myhre, MD, PhD, & J. T. (2024, October). Digital tools in heart failure: addressing unmet needs. Retrieved from Science Direct: https://www.sciencedirect.com/science/article/pii/S2589750024001584
 * Siming Wan, F. W.-j. (2025, May 29). Machine learning approaches for cardiovascular disease prediction: A review. Retrieved from Science Direct: https://www.sciencedirect.com/science/article/abs/pii/S1875213625003201
 * World Health Organization. (2025, July 31). Cardiovascular diseases (CVDs). Retrieved from World Health Organization: https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
+
 
 
 
