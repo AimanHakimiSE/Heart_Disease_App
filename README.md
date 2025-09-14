@@ -28,9 +28,9 @@ By leveraging clinical data, this project seeks to demonstrate the potential of 
 Google Collab
 
 # Dataset Source
-<div align="justify>
+<div align="justify">
 This project uses the Cleveland Heart Disease dataset from UCI, publicly available on Kaggle. The dataset contains real clinical and psychological patient data, including features such as cholesterol, resting blood pressure, chest pain type, maximum heart rate, and thalassemia key status indicators of heart disease risk. Its structured mix of numerical and categorical variables makes it suitable for machine learning, allowing models to explore complex relationships between risk factors. The dataset’s size supports efficient experimentation while enabling reproducible research and benchmarking against prior studies, making it an ideal choice for predictive modelling of heart disease.
-  </div>
+</div>
 
 # Methodology
 * Data Collection: The Cleveland Heart Disease dataset from the UCI repository was used, consisting of 303 patient records with 14 clinical attributes. After removing duplicates, 297 unique records were retained for analysis.
@@ -103,6 +103,7 @@ Course Information
 * Prof Peder L. Myhre, MD, PhD, & J. T. (2024, October). Digital tools in heart failure: addressing unmet needs. Retrieved from Science Direct: https://www.sciencedirect.com/science/article/pii/S2589750024001584
 * Siming Wan, F. W.-j. (2025, May 29). Machine learning approaches for cardiovascular disease prediction: A review. Retrieved from Science Direct: https://www.sciencedirect.com/science/article/abs/pii/S1875213625003201
 * World Health Organization. (2025, July 31). Cardiovascular diseases (CVDs). Retrieved from World Health Organization: https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
+
 
 
 
