@@ -60,39 +60,28 @@ https://heartdiseaseapp-tqqzet2dp7aarmhpzr6wny.streamlit.app/
 (Video of the App Tutorial in Notebook)
 
 # Model Evaluation
-Logistic Regression Results:
-Accuracy: 0.9166666666666666
-F1 Score: 0.9019607843137255
-ROC-AUC: 0.953125
 
-Random Forest Results:
-Accuracy: 0.8833333333333333
-F1 Score: 0.8627450980392157
-ROC-AUC: 0.9447544642857144
+| Model                | Accuracy | F1 Score | ROC-AUC |
+|-----------------------|----------|----------|---------|
+| Logistic Regression   | 0.917    | 0.902    | 0.953   |
+| Random Forest         | 0.883    | 0.863    | 0.945   |
+| SVM                   | 0.900    | 0.880    | 0.940   |
+| XGBoost               | 0.850    | 0.830    | 0.944   |
 
-SVM Results:
-Accuracy: 0.9
-F1 Score: 0.88
-ROC-AUC: 0.9397321428571428
-
-XGBoost Results:
-Accuracy: 0.85
-F1 Score: 0.8301886792452831
-ROC-AUC: 0.9441964285714286
 
 # Acknowledgement
 <div align="justify">
 We would like to express our gratitude to our lecturer, Sir Nazmirul Izzad Bin Nassir, for his invaluable guidance and support throughout this project. We also extend our appreciation to our team members for their collaboration and dedication in completing this work. The dataset used in this study was obtained from Kaggle, which served as the foundation for our analysis and experimentation.
 </div>
 
-Team Members
+## Team Members
 * Kristy Jade Luther (202307010100, BCSSE)
 * Muhammad Aiman Hakimi Bin Khairul Hafti (202309010149, BCSSE)
 * Venush A/L Kumar (202409010618, BCSSE)
 * Natasha Najwa Abdullah (202409010558, BCSSE)
 * Muhammad Alham Bin Jamain (202309010265, BCSSE)
 
-Course Information
+## Course Information
 * Subject Code: BIT4333
 * Subject Name: Introduction to Machine Learning
 * Submission Date: 11th September 2025
@@ -103,6 +92,7 @@ Course Information
 * Prof Peder L. Myhre, MD, PhD, & J. T. (2024, October). Digital tools in heart failure: addressing unmet needs. Retrieved from Science Direct: https://www.sciencedirect.com/science/article/pii/S2589750024001584
 * Siming Wan, F. W.-j. (2025, May 29). Machine learning approaches for cardiovascular disease prediction: A review. Retrieved from Science Direct: https://www.sciencedirect.com/science/article/abs/pii/S1875213625003201
 * World Health Organization. (2025, July 31). Cardiovascular diseases (CVDs). Retrieved from World Health Organization: https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
+
 
 
 
