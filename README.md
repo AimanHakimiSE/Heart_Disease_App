@@ -15,16 +15,14 @@ Despite medical advances, the timely and accurate diagnosis of cardiovascular di
 </div>
 
 # Objective
-<div align="justify>
 This project aims to develop and evaluate predictive models using machine learning techniques on the Cleveland Heart Disease dataset to improve the early detection of cardiovascular risk. The objective encompasses:
 * Preparing and preprocessing clinical data for quality and consistency.
 * Implementing models such as Logistic Regression, Random Forest, SVM, and XGBoost.
 * Evaluating performance using accuracy, F1-score, ROC-AUC, and confusion matrices.
 * Enhancing generalizability through hyperparameter tuning and cross-validation.
-  </div>
-  <div align="justify>
+
 By leveraging clinical data, this project seeks to demonstrate the potential of machine learning as a decision-support tool, complementing traditional diagnostics and advancing data-driven healthcare.
-</div>
+
 
 # Built With
 Google Collab
@@ -35,13 +33,11 @@ This project uses the Cleveland Heart Disease dataset from UCI, publicly availab
   </div>
 
 # Methodology
-<div align="justify>
 * Data Collection: The Cleveland Heart Disease dataset from the UCI repository was used, consisting of 303 patient records with 14 clinical attributes. After removing duplicates, 297 unique records were retained for analysis.
 * Preprocessing: Exploratory data analysis (EDA) was conducted to examine distributions, detect anomalies, and study relationships between features. Categorical variables were encoded, numerical features were scaled, and the data was split into training and testing sets. Hyperparameter tuning and cross-validation were applied to improve generalizability.
 * Model Development: Multiple supervised machine learning algorithms were implemented, including Logistic Regression, Support Vector Machine (SVM), Random Forest, and XGBoost, selected for their balance between interpretability and predictive performance.
 * Model Evaluation: Performance was assessed using accuracy, precision, recall, F1-score, and ROC-AUC, with special emphasis on recall and ROC-AUC due to the clinical importance of minimizing false negatives.
 * Deployment: The best-performing model was deployed through a Streamlit web application, allowing users to input patient details and receive real-time predictions with probability scores to support clinical decision-making.
-  </div>
 
 # Result and Impact
 <div align="justify>
@@ -49,12 +45,10 @@ The evaluation showed clear differences in performance among models. Logistic Re
   </div>
 
 # Challenges and Solution
-<div align="justify"
 * Class Imbalance in Dataset: Addressed using stratified train–test split and evaluation metrics like F1 score and ROC AUC instead of accuracy, ensuring balanced detection of both classes.
 * Categorical Variables and Scaling: Handled with label and one-hot encoding to preserve clinical meaning, while StandardScaler normalized numerical features for fair model training.
 * Overfitting Risk: Mitigated through cross-validation and hyperparameter tuning, allowing ensemble models such as Random Forest and XGBoost to generalize effectively.
 * Model Interpretability: Enhanced by feature importance analysis, highlighting medically relevant predictors and bridging the gap between accuracy and clinical trust.
-  </div>
 
 # Model Development
 https://colab.research.google.com/drive/1Wre-yxgQkYg8Pyu8w6tyHhDkzPmY5coK?usp=sharing (Google Colab Code)
@@ -109,6 +103,7 @@ Course Information
 * Prof Peder L. Myhre, MD, PhD, & J. T. (2024, October). Digital tools in heart failure: addressing unmet needs. Retrieved from Science Direct: https://www.sciencedirect.com/science/article/pii/S2589750024001584
 * Siming Wan, F. W.-j. (2025, May 29). Machine learning approaches for cardiovascular disease prediction: A review. Retrieved from Science Direct: https://www.sciencedirect.com/science/article/abs/pii/S1875213625003201
 * World Health Organization. (2025, July 31). Cardiovascular diseases (CVDs). Retrieved from World Health Organization: https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
+
 
 
 
